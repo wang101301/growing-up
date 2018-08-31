@@ -14,5 +14,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>growing-concurrent</module>
+        <module>growing-controller</module>
+        <module>growing-common</module>
     </modules>
 </project>
